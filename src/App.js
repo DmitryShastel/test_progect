@@ -26,6 +26,7 @@ function App() {
 
         <p>aaaaaaaaaaaa</p>
         <p>ddddddddddddd</p>
+        <input/>
 
       </header>
     </div>
